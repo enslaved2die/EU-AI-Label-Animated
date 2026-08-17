@@ -1,4 +1,4 @@
-# EU AI Label — Animated
+# EU AI Label Animated
 
 ![Animation](Animation.gif)
 
